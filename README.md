@@ -18,4 +18,7 @@ An online retailer, selling products through various channels, including Amazon 
 - Adult age group (31-50 yrs) is max contributing (50%)
 - Amazon, Flipkart and Myntra channels are max contributing(80%)
 
+### Conclusion
+The retail Store should target women customers of age group (31-50 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+![Uploading image.png…]()
 
