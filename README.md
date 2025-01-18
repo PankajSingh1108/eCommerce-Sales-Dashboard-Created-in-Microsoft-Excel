@@ -22,3 +22,4 @@ An online retailer, selling products through various channels, including Amazon 
 The retail Store should target women customers of age group (31-50 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 ![Uploading image.png…]()
 
+
